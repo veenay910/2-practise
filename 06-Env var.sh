@@ -1,5 +1,5 @@
 #!/bi/bash
 
-read -p "enter the env variable = var"
+read -p "enter the env variable =" var
 
 echo "{!var}"
