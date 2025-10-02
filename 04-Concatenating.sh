@@ -1,7 +1,9 @@
 #!/bin/bash
 
-1=abc
-2=xyz
+# Declaration of variables
+name='My name is Tom.'
+age='My age is 12.'
 
-3="${1} ${2}"
-echo "$3"
+# Concatenation
+info="${name} ${age}"
+echo "Result: $info"
