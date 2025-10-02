@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Declaration of variables
-name='My name is Tom.'
-age='My age is 12.'
+1=aa
+2=bbb
 
 # Concatenation
-info="${name} ${age}"
+info="${1} ${2}"
 echo "Result: $info"
