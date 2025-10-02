@@ -1,5 +1,5 @@
 #!/bin/bash
-x=35
+x=100
 y=20
 z=$(($x/$y))
 echo "$z"
