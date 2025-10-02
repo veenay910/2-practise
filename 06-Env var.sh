@@ -4,5 +4,5 @@ read -p "enter the env variable =" var
 
 echo "${!var}"
 
-abc=xyz
+abc=PWD
 echo "${!abc}"
