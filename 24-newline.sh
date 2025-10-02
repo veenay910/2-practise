@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "HI/hello/how are you"
+echo -e "HI\nhello\nhow are you"
