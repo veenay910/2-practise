@@ -1,4 +1,8 @@
 #!/bin/bash
 
-read num
+
 echo "enter the number : $num"
+
+read num
+
+echo "input provided is"
