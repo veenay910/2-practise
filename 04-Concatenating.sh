@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Declaration of variables
-x='aa'
-y='bbb'
+9='aa'
+10='bbb'
 
 # Concatenation
-info=" ${x} ${y} "
+info=" ${9} ${10} "
 echo "Result: $info"
