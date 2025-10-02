@@ -6,4 +6,7 @@ if [ ! -f $fname ]; then
 
 echo "file not exist"
 
+else
+echo "file exist"
+
 fi
